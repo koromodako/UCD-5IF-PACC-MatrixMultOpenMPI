@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   main_1d.c
-Author: paul dautry
+Author: koromodako
 Date:   2016-11-23
 Purpose:
     Contains MPI program for one dimensional matrix multiplication.

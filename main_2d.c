@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   main_2d.c
-Author: paul dautry
+Author: koromodako
 Date:   2016-11-24
 Purpose:
     Contains MPI program for two dimensional matrix multiplication.
